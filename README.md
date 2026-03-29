@@ -1,9 +1,11 @@
-                                                           👋 Hi, I’m @rachana2671
-                Passionate Machine Learning ,Deep Learning and NLP enthusiast.I am also into Digital Marketing.
+                                                           👋 Hi, I'm Rachana
 
+💻 Software Development Engineer @ BigBasket
+⚙️ Backend | Distributed Systems | GenAI
 
-- 🌱 I’m currently learning NLP 
-- 📫 How to reach me rachana2671@gmail.com
+- Currently Exploring
+Advanced System Design
+LLM-based systems & AI in backend engineering
 
 <!---
 rachana2671/rachana2671 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
